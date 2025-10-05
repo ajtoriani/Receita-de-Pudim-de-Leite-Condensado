@@ -1,7 +1,7 @@
 # Receita de Pudim de Leite Condensado
 
 ## Sobre o Projeto
-Este é um projeto simples, desenvolvido em **HTML Semântico**, com o objetivo de servir como uma receita de pudim de leite condensado. O projeto foi criado para consolidar conhecimentos básicos de front-end, focando na estruturação do conteúdo de forma clara e acessível.
+Este é um projeto simples, desenvolvido em **HTML Semântico**, com o objetivo de servir como uma receita de pudim de leite condensado. O projeto foi criado para consolidar conhecimentos básicos de front-end, focando na estruturação do conteúdo de forma clara e acessível (Disponível a leitores de tela)
 ## Funcionalidades
 *   Título de destaque com o nome do projeto.
 *   Exibe uma foto do pudim para atrair o leitor.
